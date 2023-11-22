@@ -27,5 +27,7 @@ Project Structure
 
 Author
 Michal Szczepanski
+
 e-mail: michalszczepanski07@gmail.com
+
 GitHub: https://github.com/szczepanskimichal 

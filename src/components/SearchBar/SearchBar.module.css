@@ -1,27 +1,29 @@
-import React from 'react';
-import PropTypes from 'prop-types';
-import { BiSearchAlt2 } from 'react-icons/bi';
+.Searchbar {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  background-color: #fff;
+  border-radius: 50px;
+  border: 1px solid black;
+  overflow: hidden;
+}
 
-import css from './SearchBar.module.css';
+.Searchbar-icon {
+  margin-left: 12px;
+}
 
-export const SearchBar = ({ onChange, value }) => {
-  return (
-    <div className={css['Searchbar']}>
-      <BiSearchAlt2 size="16" className={css['Searchbar-icon']} />
-      <input
-        className={css['Searchbar-input']}
-        type="text"
-        autoComplete="off"
-        autoFocus
-        placeholder="Search movies"
-        onChange={onChange}
-        value={value}
-      />
-    </div>
-  );
-};
+.Searchbar-input {
+  display: inline-block;
+  width: 100%;
+  font: inherit;
+  font-size: 20px;
+  border: none;
+  outline: none;
+  padding-left: 4px;
+  padding-right: 4px;
+}
 
-SearchBar.propTypes = {
-  value: PropTypes.string.isRequired,
-  onChange: PropTypes.func.isRequired,
-};
+.Searchbar-input::placeholder {
+  font: inherit;
+  font-size: 18px;
+}

@@ -44,129 +44,129 @@ Project Structure
 
 src/
 
-|--App/
+    |--App/
 
-    ||--App.css
+        ||--App.css
 
-    ||--App.jsx
+        ||--App.jsx
 
-    ||--index.js
+        ||--index.js
 
-|--components
+    |--components
 
-    ||--BackLink/
+        ||--BackLink/
 
-        |||--BackLink.jsx
+            |||--BackLink.jsx
 
-        |||--BackLink.module.css
+            |||--BackLink.module.css
 
-        |||--index.js
+            |||--index.js
 
-    ||--Cast/
+        ||--Cast/
 
-        |||--Cast.jsx
+            |||--Cast.jsx
 
-        |||--Cast.module.css
+            |||--Cast.module.css
 
-        |||--index.js
+            |||--index.js
 
-    ||--Loader/
+        ||--Loader/
 
-        |||--Loader.jsx
+            |||--Loader.jsx
 
-        |||--index.js
+            |||--index.js
 
-    ||--MovieCard/
+        ||--MovieCard/
 
-        |||--index.js
+            |||--index.js
 
-        |||--MovieCard.jsx
+            |||--MovieCard.jsx
 
-        |||--MovieCard.module.css
+            |||--MovieCard.module.css
 
-    ||--MovieList/
+        ||--MovieList/
 
-        |||--index.js
+            |||--index.js
 
-        |||--MovieList.jsx
+            |||--MovieList.jsx
 
-        |||--MovieList.module.css
+            |||--MovieList.module.css
 
-    ||--Navigation/
+        ||--Navigation/
 
-        |||--index.js
+            |||--index.js
 
-        |||--Navigation.jsx
+            |||--Navigation.jsx
 
-        |||--Navigation.module.css
+            |||--Navigation.module.css
 
-    ||--Reviews/
+        ||--Reviews/
 
-        |||--index.js
+            |||--index.js
 
-        |||--Reviews.jsx
+            |||--Reviews.jsx
 
-        |||--Reviews.module.css
+            |||--Reviews.module.css
 
-    ||--SearchBar/
+        ||--SearchBar/
 
-        |||--index.js
+            |||--index.js
 
-        |||--SearchBar.jsx
+            |||--SearchBar.jsx
 
-        |||--SearchBar.module.css
+            |||--SearchBar.module.css
 
-    ||--SharedLayout/
+        ||--SharedLayout/
 
-        |||--index.js
+            |||--index.js
 
-        |||--SharedLayout.jsx
+            |||--SharedLayout.jsx
 
-        |||--SharedLayout.module.css
+            |||--SharedLayout.module.css
 
-    ||--index.js
+        ||--index.js
 
-|--pages
+    |--pages
 
-    ||--Home
+        ||--Home
 
-        |||--index.js
+            |||--index.js
 
-        |||--Home.jsx
+            |||--Home.jsx
 
-        |||--Home.module.css
+            |||--Home.module.css
 
-    ||--MovieDetails
+        ||--MovieDetails
 
-        |||--index.js
+            |||--index.js
 
-        |||--MovieDetails.jsx
+            |||--MovieDetails.jsx
 
-        |||--MovieDetails.module.css
+            |||--MovieDetails.module.css
 
-    ||--Movies
+        ||--Movies
 
-        |||--index.js
+            |||--index.js
 
-        |||--Movies.jsx
+            |||--Movies.jsx
 
-        |||--Movies.module.jsx
+            |||--Movies.module.jsx
 
-    ||--NotFound
+        ||--NotFound
 
-        |||--index.js
+            |||--index.js
 
-        |||--NorFound.jsx
+            |||--NorFound.jsx
 
-        |||--NorFound.module.css
+            |||--NorFound.module.css
 
-|--services
+    |--services
 
-    ||--movieAPI.js
+        ||--movieAPI.js
 
-|--index.js
+    |--index.js
 
-|--index.css
+    |--index.css
 
 Author
 

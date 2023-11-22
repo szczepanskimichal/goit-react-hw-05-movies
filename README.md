@@ -22,4 +22,4 @@ npm install
 To run the application, use the following command:
 npm start
 
-aaaaaaaaaThe application will run on localhost:3000.
+The application will run on localhost:3000.

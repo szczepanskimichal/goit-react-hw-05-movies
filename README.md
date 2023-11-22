@@ -13,10 +13,13 @@ Technologies
 -themoviedb.org API
 
 Starting up
+
 First install all required dependencies:
 npm install
+
 To run the application, use the following command:
 npm start
+
 The application will run on localhost:3000.
 
 Project Structure

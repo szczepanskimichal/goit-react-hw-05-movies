@@ -9,17 +9,30 @@ An application using single-page application. For the backend I used themoviedb.
 Technologies
 
 HTML
+
 CSS
+
 Java Script
+
 React.js
+
 single-page application
+
 themoviedb.org API
 
-Starting up
-First install all required dependencies:
 
+Starting up
+
+First install all required dependencies:
 npm install
+
 To run the application, use the following command:
 npm start
 
 The application will run on localhost:3000.
+
+
+Author
+Szczepanski Michal
+e-mail: michalszczepanski07@gmail.com
+GitHub: https://github.com/szczepanskimichal

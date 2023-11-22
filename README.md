@@ -18,6 +18,12 @@ pressing the "cast" link, the cast will appear, and after pressing the "reviews"
 link, opinions about the film will appear. By clicking on the same links, the
 content closes.
 
+![m2](https://github.com/szczepanskimichal/goit-react-hw-05-movies/assets/127307935/5b12fe2d-12e2-4f54-a2d3-dc60e0f52571)
+![m1](https://github.com/szczepanskimichal/goit-react-hw-05-movies/assets/127307935/8bc3645b-676b-4148-8851-c51c38cc1bbc)
+![m4](https://github.com/szczepanskimichal/goit-react-hw-05-movies/assets/127307935/2ec89118-6ca0-4d4f-b5d2-dc52d7edf01a)
+![m3](https://github.com/szczepanskimichal/goit-react-hw-05-movies/assets/127307935/e49f0e2b-dca8-401e-a877-4ea9f582d11c)
+
+
 Technologies
 
 HTML
@@ -25,6 +31,7 @@ HTML
 CSS
 
 Java Script
+
 
 React.js
 

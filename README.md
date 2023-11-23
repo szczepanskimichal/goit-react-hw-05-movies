@@ -24,30 +24,35 @@ content closes.
 ![m3](https://github.com/szczepanskimichal/goit-react-hw-05-movies/assets/127307935/e49f0e2b-dca8-401e-a877-4ea9f582d11c)
 
 
+
 Technologies
 
-HTML
+- HTML
 
-CSS
+- CSS
 
-Java Script
+- Java Script
 
+- React.js
 
-React.js
+- single-page application
 
-single-page application
+- themoviedb.org API
 
-themoviedb.org API
 
 Starting up
 
+
 First install all required dependencies: npm install
+
 
 To run the application, use the following command: npm start
 
 The application will run on localhost:3000.
 
+
 Project Structure
+
 
 src/
 
@@ -174,6 +179,9 @@ src/
     |--index.js
 
     |--index.css
+
+
+    
 
 Author
 

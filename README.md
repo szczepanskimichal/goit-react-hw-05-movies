@@ -190,3 +190,5 @@ Szczepanski Michal
 e-mail: michalszczepanski07@gmail.com
 
 GitHub: https://github.com/szczepanskimichal
+
+Linkedin: wwww.linkedin.com/in/michal-szczepanski-a2bb9126b
